@@ -5,7 +5,7 @@
     background : #180A0A;
 }
 .Titles{
-  background-image: url(../images/WALL3.jpg);
+  background-image: url(images/WALL3.jpg);
   background-size: 100% auto;
 }
 .nav-item{
@@ -97,7 +97,7 @@ p{
 #Testimonials{
   padding: 7% 15%;
   text-align: center;
-  background-image: url(../images/1156781.jpg);
+  background-image: url(images/1156781.jpg);
   max-width: 100%;
 }
 em{
@@ -109,7 +109,7 @@ em{
   margin: 20px 20px 50px;
 }
 #brand{
-  background-image: url(../images/1156781.jpg);
+  background-image: url(images/1156781.jpg);
   max-width: 100%;
   text-align: center;
   padding-bottom: 3%;
@@ -132,7 +132,7 @@ em{
   color: #ffffff;
 }
 #cta{
-  background-image: url(../images/1156781.jpg);
+  background-image: url(images/1156781.jpg);
   padding: 7% 15%;
   text-align:center;
 }
